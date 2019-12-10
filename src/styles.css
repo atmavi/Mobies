@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+
+body{
+  background-color: rgb(39, 33, 33);
+}
+
+.card{
+  height: 100%;
+  width: 100%;
+}
